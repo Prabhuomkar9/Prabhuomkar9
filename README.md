@@ -32,7 +32,6 @@
 <a href= https://github.com/dhanushlnaik?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 
 
-!["HEllo"](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg)
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <a href = 'https://www.linkedin.com/in/prabhuomkar9'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
