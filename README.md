@@ -11,10 +11,10 @@
 
 
 
-- 🔭 I’m currently working on Discord Bot.
+- 🔭 I’m currently studying DSA
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Web Devlopment
-- 🤔 I’m looking for help with Discord Bot
+- 👯 I’m looking to collaborate on Web development
+- 🤔 I’m looking for help with project ideas
 - 💬 Let's talk Python
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
