@@ -1,8 +1,6 @@
 
 # Hello Fellow Developers! </> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Prabhuomkar9.Prabhuomkar9)
  
  Hi! My name is Omkar. Thank You for taking the time to view my GitHub Profile :smile:
 
@@ -10,12 +8,11 @@
 ## About Me
 
 
-
-- 🔭 I’m currently studying DSA
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently studying DSA, Data Science
+- 🌱 I’m currently learning JavaScript, Java
 - 👯 I’m looking to collaborate on Web development
-- 🤔 I’m looking for help with project ideas
-- 💬 Let's talk Python
+<!-- - 🤔 I’m looking for help with project ideas -->
+- 💬 Let's talk Python, C
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
