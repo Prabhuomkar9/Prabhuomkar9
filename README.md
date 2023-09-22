@@ -11,11 +11,11 @@
 - 🔭 I’m currently studying DSA, Data Science
 - 🌱 I’m currently learning JavaScript, Java
 - 👯 I’m looking to collaborate on Web development
-<!-- - 🤔 I’m looking for help with project ideas -->
 - 💬 Let's talk Python, C
-<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: who wants hugs and kisses, I love bugs and fixes
+<!-- - 🤔 I’m looking for help with project ideas -->
+<!-- - 📫 How to reach me: ... -->
 
 
 
