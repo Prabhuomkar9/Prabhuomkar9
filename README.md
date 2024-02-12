@@ -5,10 +5,10 @@ Hi! My name is Omkar. Thank You for taking the time to view my GitHub Profile :s
 
 ## About Me
 
-- 🔭 I’m currently studying DSA, Data Science
-- 🌱 I’m currently learning JavaScript, Java
+- 🔭 I’m currently learning GSAP.
+- 🌱 I like competitive coding.
 - 👯 I’m looking to collaborate on Web development
-- 💬 Let's talk Python, C
+- 💬 Let's talk Python, TypeScript
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: who wants hugs and kisses, I love bugs and fixes -->
 <!-- - 🤔 I’m looking for help with project ideas -->
